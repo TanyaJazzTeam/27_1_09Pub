@@ -1,5 +1,5 @@
 pretranslate:
   paths:
-    - source:
+    - source: .
     include:
     - "*.json"
