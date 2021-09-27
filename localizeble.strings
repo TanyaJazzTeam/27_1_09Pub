@@ -1,0 +1,16 @@
+/*
+  Localiseble.strings
+  Created by Tanya Pervozvanskaya on 2021/09/10.
+  Copyright © 2021 Goldfih. All rights reserved.
+*/
+
+"main_page_language" = "English";
+"main_page_change_language" = "Change language";
+
+"alert_change_language_title" = " Change language to";
+"молоко" = "Milk";
+"рыба" = "fish";
+"яблоко"= "apple";
+"en" = "English";
+"de" = "true";
+"ro" = "false";
