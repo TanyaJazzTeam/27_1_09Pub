@@ -2,4 +2,6 @@ pretranslate:
   paths:
     - source: .
       include:
-      - "*.md"
+        - "*1/*.*"
+      exclude:
+        - "2*.*"
