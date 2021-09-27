@@ -2,4 +2,4 @@ pretranslate:
   paths:
     - source: .
       include:
-      - "*.json"
+      - "*.md"
