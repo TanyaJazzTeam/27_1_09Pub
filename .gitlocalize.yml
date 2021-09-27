@@ -2,4 +2,4 @@ pretranslate:
   paths:
     - source:
     include:
-    - "06.09.json"
+    - "*.json"
